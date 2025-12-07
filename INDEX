@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Constancy - Roupas com Estilo</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Constancy</h1>
+        <nav>
+            <a href="#sobre">Sobre</a>
+            <a href="#produtos">Produtos</a>
+            <a href="#contato">Contato</a>
+        </nav>
+    </header>
+    
+    <section id="hero">
+        <h2>Roupas que Duram</h2>
+        <p>Descubra peças atemporais para o seu guarda-roupa.</p>
+        <button>Ver Coleção</button>
+    </section>
+    
+    <section id="sobre">
+        <h2>Sobre a Constancy</h2>
+        <p>A Constancy é uma marca dedicada a roupas de alta qualidade, inspiradas na ideia de constância: peças que resistem ao tempo e às tendências passageiras. Cada item é feito com materiais duráveis e designs clássicos.</p>
+    </section>
+    
+    <section id="produtos">
+        <h2>Nossos Produtos</h2>
+        <div class="produto">
+            <img src="https://via.placeholder.com/300x200?text=Camisa+Constancy" alt="Camisa">
+            <h3>Camisa Clássica</h3>
+            <p>R$ 89,90</p>
+        </div>
+        <div class="produto">
+            <img src="https://via.placeholder.com/300x200?text=Calça+Constancy" alt="Calça">
+            <h3>Calça Slim</h3>
+            <p>R$ 129,90</p>
+        </div>
+        <!-- Adicione mais produtos aqui -->
+    </section>
+    
+    <section id="contato">
+        <h2>Entre em Contato</h2>
+        <p>Email: contato@constancy.com</p>
+        <p>Instagram: @constancyroupas</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2023 Constancy. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
